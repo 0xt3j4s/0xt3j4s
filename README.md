@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 Sophomore at @iitjodhpur
-- 💬 Ask me about Python, C++, Flutter, JavaScript
+- 💬 Ask me about Python, C, C++, Flutter, JavaScript
 - 📫 How to reach me: jamdade.2@iitj.ac.in
