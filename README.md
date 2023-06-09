@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tezas-6174/Tezas-6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xt3j4s/0xt3j4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m passionate about DevOps and Security.
   
-- 🌱 I enjoy learning new things and am currently learning about **Service Meshes**.  
+- 🌱 I enjoy learning new things and am currently learning about **Ansible** and **Service Meshes**.  
   
   
 - 📫 Reach me at **jamdade.2@iitj.ac.in**  
