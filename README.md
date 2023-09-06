@@ -63,9 +63,11 @@ Here are some ideas to get you started:
  </a> 
  </p>
  
+ <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xt3j4s&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="0xt3j4s" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xt3j4s&show_icons=true&locale=en&count_private=true&theme=nightowl" alt="0xt3j4s" /></p>
+-->
   
 <h3 align="left">Connect with me on:</h3>     
 <p align="left">  
