@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m passionate about DevOps and Security.
   
-- 🌱 I enjoy learning new things and am currently learning about **Ansible** and **Service Meshes**.  
+- 🌱 I enjoy learning new things and am currently learning more about Kubernetes.  
   
   
 - 📫 Reach me at **jamdade.2@iitj.ac.in**  
