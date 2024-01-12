@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xt3j4s&label=Profile%20visits&color=0e75b6&style=flat" alt="0xt3j4s" /> </p>  
   
-- 🔭 I’m passionate about DevOps and Security.
+<!-- - 🔭 I’m passionate about DevOps and Security.
   
-- 🌱 I enjoy learning new things and am currently learning more about Kubernetes.  
-  
+- 🌱 I enjoy learning new things and am currently learning more about ....  
+  -->
   
 - 📫 Reach me at **jamdade.2@iitj.ac.in**  
   
