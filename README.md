@@ -1,5 +1,4 @@
-# Hi there, I'm Tejas Jamdade
-## Software Engineer | IIT Alumnus
+### Software Engineer | IIT Alumnus
 
 - Exploring Tech and Finance.
 - Working with App Development, Backend and Cloud Technologies to develop robust & scalable systems.
