@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📎 Checkout my [resume](https://0xt3j4s.github.io/) -->
 
 <h1 align="center">Hi 👋, I'm Tejas Jamdade</h1>  
-<h3 align="center">Senior at Indian Institute of Technology Jodhpur</h3>  
+<h3 align="center">Software Engineer | Indian Institute of Technology Jodhpur Alumnus</h3>  
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xt3j4s&label=Profile%20visits&color=0e75b6&style=flat" alt="0xt3j4s" /> </p>  
   
@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 - 🌱 I enjoy learning new things and am currently learning more about ....  
   -->
   
-- 📫 Reach me at **jamdade.2@iitj.ac.in**  
+- 📫 Reach me at **tejas.jamdade.work@gmail.com**  
   
+<!--
 - 📄 Know about my experiences - [Resume](https://0xt3j4s.github.io/)  
+-->
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
