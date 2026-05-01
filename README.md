@@ -1,4 +1,4 @@
-### Senior Software Engineer | IIT Alumnus
+### Software Engineer II | IIT Alumnus
 
 - Exploring Tech and Finance.
 - Working with App Development, Backend and Cloud Technologies to develop robust & scalable systems.
